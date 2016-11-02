@@ -7,7 +7,8 @@ Split.js is a lightweight, unopinionated utility for creating adjustable split v
 
 No dependencies or markup required, just two or more elements with a common parent. Views can be split horizontally or vertically, with draggable gutters inserted between every two elements.
 
-## Installation
+Installation
+============
 
 Install with Bower:
 
